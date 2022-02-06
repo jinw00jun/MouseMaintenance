@@ -1,0 +1,80 @@
+---
+title: "Untitled"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(shiny)
+library(ggplot2)
+library(plotly)
+library(readr)
+library(tidyverse)
+```
+
+```{r}
+dt_tf <- read_csv("dt_tf.csv")
+Rack1 = dt_tf %>% filter(Rack == 'Rack1') %>% select(-1) 
+Rack1$Number <- apply(Rack1%>% select(Tag1:Tag5),1, function(x)5-sum(is.na(x)))
+Rack1 <- Rack1 %>% mutate(Row = as.factor(Row)) %>% 
+  mutate(Breeder = ifelse(Breeder == "Y", "Breeder", 
+                          ifelse(Breeder == NA| Breeder == "N", ""))) %>%
+  unite('Info',c(Breeder, Lineage, Number, Card_num), sep = "\n", remove = FALSE)
+```
+
+```{r}
+p = ggplot(Rack1,
+           aes(x=Column,
+               y=Row,
+               fill = Lineage,
+               #tooltip
+               text = paste("Animals: ",
+                            Tag1,Tag2,Tag3,Tag4,Tag5,
+                            "\n Note",Note),
+               #on tile
+               label = Info)) +
+  geom_tile(aes(Column,Row), 
+            colour = "White", size =1) +
+  geom_text(colour = "white", size =3) + # label on t
+  scale_fill_discrete(na.value="transparent") +
+  labs(x = F, y = F) +
+  scale_y_discrete(limits = rev(unique(Rack1$Row)),
+                   position = "right") +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        axis.line = element_blank(),
+        axis.ticks = element_blank(),
+        panel.background = element_rect(fill="gray90"),
+        plot.background = element_rect(fill="gray90"),
+        legend.position = "none", 
+        axis.text = element_text(color="black", size=15, face =2),
+        ) 
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+ggplotly(p, tooltip ="text") %>% layout(xaxis = list(side ="top" )  )
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+
+```
+
+### Chart C
+
+```{r}
+
+```
+

@@ -1,0 +1,2602 @@
+{
+  "Rack1": {
+    "1": {
+      "A": {
+        "Card#": "",
+        "Cage_ID": "",
+        "Breeder": "",
+        "Lineage": "",
+        "Fater": "",
+        "Mothers": [
+          "",
+          ""
+        ],
+        "Tags": [],
+        "Note": ""
+      },
+      "B": {
+        "Card#": "",
+        "Cage_ID": "",
+        "Breeder": "",
+        "Lineage": "",
+        "Fater": "",
+        "Mothers": [
+          "",
+          ""
+        ],
+        "Tags": [],
+        "Note": ""
+      },
+      "C": {
+        "Card#": "",
+        "Cage_ID": "",
+        "Breeder": "",
+        "Lineage": "",
+        "Fater": "",
+        "Mothers": [
+          "",
+          ""
+        ],
+        "Tags": [],
+        "Note": ""
+      },
+      "D": {
+        "Card#": "",
+        "Cage_ID": "",
+        "Breeder": "",
+        "Lineage": "",
+        "Fater": "",
+        "Mothers": [
+          "",
+          ""
+        ],
+        "Tags": [],
+        "Note": ""
+      },
+      "E": {
+        "Card#": "",
+        "Cage_ID": "",
+        "Breeder": "",
+        "Lineage": "",
+        "Fater": "",
+        "Mothers": [
+          "",
+          ""
+        ],
+        "Tags": [],
+        "Note": ""
+      },
+      "F": {
+        "Card#": "",
+        "Cage_ID": "",
+        "Breeder": "",
+        "Lineage": "",
+        "Fater": "",
+        "Mothers": [
+          "",
+          ""
+        ],
+        "Tags": [],
+        "Note": ""
+      },
+      "G": {
+        "Card#": 214479,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5636,
+        "Mothers": [
+          5638,
+          5611
+        ],
+        "Tags": [
+          6040
+        ],
+        "Note": ""
+      },
+      "H": {
+        "Card#": "",
+        "Cage_ID": "",
+        "Breeder": "",
+        "Lineage": "",
+        "Fater": "",
+        "Mothers": [
+          "",
+          ""
+        ],
+        "Tags": [],
+        "Note": ""
+      }
+    },
+    "2": {
+      "A": {
+        "Card#": "",
+        "Cage_ID": "",
+        "Breeder": "",
+        "Lineage": "",
+        "Fater": "",
+        "Mothers": [
+          "",
+          ""
+        ],
+        "Tags": [],
+        "Note": ""
+      },
+      "B": {
+        "Card#": 244645,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 5480,
+        "Mothers": [
+          5660,
+          5509
+        ],
+        "Tags": [
+          5890,
+          5897,
+          5899,
+          7085
+        ],
+        "Note": ""
+      },
+      "C": {
+        "Card#": 247469,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5625,
+        "Mothers": [
+          5638,
+          5611
+        ],
+        "Tags": [
+          7091,
+          792
+        ],
+        "Note": ""
+      },
+      "D": {
+        "Card#": 247468,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5626,
+        "Mothers": [
+          5638,
+          5611
+        ],
+        "Tags": [
+          7087,
+          7088,
+          7089
+        ],
+        "Note": ""
+      },
+      "E": {
+        "Card#": "",
+        "Cage_ID": "",
+        "Breeder": "",
+        "Lineage": "",
+        "Fater": "",
+        "Mothers": [
+          "",
+          ""
+        ],
+        "Tags": [],
+        "Note": ""
+      },
+      "F": {
+        "Card#": 214474,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5607,
+        "Mothers": [
+          5678,
+          5594
+        ],
+        "Tags": [
+          6021,
+          6022,
+          6023,
+          6024,
+          6025
+        ],
+        "Note": ""
+      },
+      "G": {
+        "Card#": 244639,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 5567,
+        "Mothers": [
+          5988,
+          ""
+        ],
+        "Tags": [
+          5887
+        ],
+        "Note": ""
+      },
+      "H": {
+        "Card#": 214494,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 5480,
+        "Mothers": [
+          5660,
+          5509
+        ],
+        "Tags": [
+          5852
+        ],
+        "Note": ""
+      }
+    },
+    "3": {
+      "A": {
+        "Card#": 184087,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "INS21",
+        "Fater": 5495,
+        "Mothers": [
+          5503,
+          ""
+        ],
+        "Tags": [
+          5783,
+          5784
+        ],
+        "Note": ""
+      },
+      "B": {
+        "Card#": 243830,
+        "Cage_ID": "",
+        "Breeder": "Y",
+        "Lineage": "Cas9",
+        "Fater": 5789,
+        "Mothers": [
+          7067,
+          ""
+        ],
+        "Tags": [],
+        "Note": ""
+      },
+      "C": {
+        "Card#": 2438,
+        "Cage_ID": "",
+        "Breeder": "Y",
+        "Lineage": "PBF",
+        "Fater": 5717,
+        "Mothers": [
+          5720,
+          5778
+        ],
+        "Tags": [],
+        "Note": "Clinical Issue"
+      },
+      "D": {
+        "Card#": 247470,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5607,
+        "Mothers": [
+          5678,
+          5594
+        ],
+        "Tags": [
+          5874,
+          5876,
+          5877
+        ],
+        "Note": ""
+      },
+      "E": {
+        "Card#": 244640,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 5567,
+        "Mothers": [
+          5988,
+          ""
+        ],
+        "Tags": [
+          5889
+        ],
+        "Note": ""
+      },
+      "F": {
+        "Card#": 247483,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "Cas9",
+        "Fater": 5700,
+        "Mothers": [
+          5439,
+          ""
+        ],
+        "Tags": [
+          6029,
+          6030,
+          6031,
+          6032,
+          6033
+        ],
+        "Note": ""
+      },
+      "G": {
+        "Card#": 214484,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB21",
+        "Fater": 5481,
+        "Mothers": [
+          5640,
+          5669
+        ],
+        "Tags": [
+          6050,
+          6051,
+          6052,
+          6053,
+          6054
+        ],
+        "Note": ""
+      },
+      "H": {
+        "Card#": 247472,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5607,
+        "Mothers": [
+          5678,
+          5594
+        ],
+        "Tags": [
+          5890,
+          5891
+        ],
+        "Note": ""
+      }
+    },
+    "4": {
+      "A": {
+        "Card#": "",
+        "Cage_ID": "",
+        "Breeder": "",
+        "Lineage": "",
+        "Fater": "",
+        "Mothers": [
+          "",
+          ""
+        ],
+        "Tags": [],
+        "Note": ""
+      },
+      "B": {
+        "Card#": 243851,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 5473,
+        "Mothers": [
+          5570,
+          5507
+        ],
+        "Tags": [
+          6082
+        ],
+        "Note": ""
+      },
+      "C": {
+        "Card#": 243870,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": "",
+        "Mothers": [
+          "",
+          ""
+        ],
+        "Tags": [
+          6072,
+          6073,
+          6074,
+          6075,
+          6076
+        ],
+        "Note": ""
+      },
+      "D": {
+        "Card#": 243857,
+        "Cage_ID": "",
+        "Breeder": "Y",
+        "Lineage": "PB7",
+        "Fater": 7016,
+        "Mothers": [
+          7095,
+          ""
+        ],
+        "Tags": [],
+        "Note": ""
+      },
+      "E": {
+        "Card#": 243856,
+        "Cage_ID": "",
+        "Breeder": "Y",
+        "Lineage": "PB7",
+        "Fater": 7020,
+        "Mothers": [
+          7044,
+          ""
+        ],
+        "Tags": [],
+        "Note": ""
+      },
+      "F": {
+        "Card#": 243855,
+        "Cage_ID": "",
+        "Breeder": "Y",
+        "Lineage": "PB7",
+        "Fater": 5888,
+        "Mothers": [
+          5810,
+          ""
+        ],
+        "Tags": [],
+        "Note": ""
+      },
+      "G": {
+        "Card#": 243847,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB21",
+        "Fater": 5572,
+        "Mothers": [
+          5653,
+          5619
+        ],
+        "Tags": [
+          6065,
+          6066,
+          6067,
+          6068,
+          6069
+        ],
+        "Note": ""
+      },
+      "H": {
+        "Card#": 243854,
+        "Cage_ID": "",
+        "Breeder": "Y",
+        "Lineage": "PB7",
+        "Fater": 7048,
+        "Mothers": [
+          7045,
+          ""
+        ],
+        "Tags": [],
+        "Note": ""
+      }
+    },
+    "5": {
+      "A": {
+        "Card#": 247475,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB21",
+        "Fater": 5572,
+        "Mothers": [
+          5619,
+          ""
+        ],
+        "Tags": [
+          5894,
+          5895,
+          5896
+        ],
+        "Note": ""
+      },
+      "B": {
+        "Card#": 243831,
+        "Cage_ID": "",
+        "Breeder": "Y",
+        "Lineage": "PB3",
+        "Fater": "",
+        "Mothers": [
+          5677,
+          ""
+        ],
+        "Tags": [],
+        "Note": "Male Removed (10/11)"
+      },
+      "C": {
+        "Card#": 243832,
+        "Cage_ID": "",
+        "Breeder": "Y",
+        "Lineage": "PB3",
+        "Fater": "",
+        "Mothers": [
+          "",
+          5858
+        ],
+        "Tags": [],
+        "Note": "Male removed (10/11)-check the card"
+      },
+      "D": {
+        "Card#": 243852,
+        "Cage_ID": "",
+        "Breeder": "Y",
+        "Lineage": "PB3",
+        "Fater": "",
+        "Mothers": [
+          5893,
+          ""
+        ],
+        "Tags": [],
+        "Note": "Male Euthanized (12-9-21)- single housed"
+      },
+      "E": {
+        "Card#": 129734,
+        "Cage_ID": "",
+        "Breeder": "Y",
+        "Lineage": "PBF",
+        "Fater": 5349,
+        "Mothers": [
+          5360,
+          5361
+        ],
+        "Tags": [],
+        "Note": ""
+      },
+      "F": {
+        "Card#": 243834,
+        "Cage_ID": "",
+        "Breeder": "Y",
+        "Lineage": "PB3",
+        "Fater": "",
+        "Mothers": [
+          5892,
+          5875
+        ],
+        "Tags": [],
+        "Note": "Male Euthanized (12/9/21)"
+      },
+      "G": {
+        "Card#": 243833,
+        "Cage_ID": "",
+        "Breeder": "Y",
+        "Lineage": "PB3",
+        "Fater": 5823,
+        "Mothers": [
+          5861,
+          ""
+        ],
+        "Tags": [],
+        "Note": "Male Euthanized (12/9/21)-Terminate the cage"
+      },
+      "H": {
+        "Card#": 247477,
+        "Cage_ID": "",
+        "Breeder": "Y",
+        "Lineage": "PB21",
+        "Fater": 5855,
+        "Mothers": [
+          5809,
+          6041
+        ],
+        "Tags": [],
+        "Note": ""
+      }
+    },
+    "6": {
+      "A": {
+        "Card#": 247479,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "Exp",
+        "Fater": 7040,
+        "Mothers": [
+          "Cas9",
+          ""
+        ],
+        "Tags": [],
+        "Note": "4 pups (1/1)"
+      },
+      "B": {
+        "Card#": 214477,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5607,
+        "Mothers": [
+          5678,
+          5594
+        ],
+        "Tags": [
+          6015,
+          6016,
+          6017
+        ],
+        "Note": ""
+      },
+      "C": {
+        "Card#": 243829,
+        "Cage_ID": "",
+        "Breeder": "Y",
+        "Lineage": "PBF",
+        "Fater": 5716,
+        "Mothers": [
+          5695,
+          5694
+        ],
+        "Tags": [],
+        "Note": ""
+      },
+      "D": {
+        "Card#": 243846,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB21",
+        "Fater": 5572,
+        "Mothers": [
+          5653,
+          5619
+        ],
+        "Tags": [
+          6060,
+          6061,
+          6062,
+          6063,
+          6064
+        ],
+        "Note": ""
+      },
+      "E": {
+        "Card#": 247480,
+        "Cage_ID": "",
+        "Breeder": "Y",
+        "Lineage": "Exp",
+        "Fater": 7028,
+        "Mothers": [
+          "Cas9",
+          ""
+        ],
+        "Tags": [],
+        "Note": "6 pups (12/29)"
+      },
+      "F": {
+        "Card#": 247478,
+        "Cage_ID": "",
+        "Breeder": "Y",
+        "Lineage": "PB21",
+        "Fater": 5826,
+        "Mothers": [
+          58085,
+          ""
+        ],
+        "Tags": [],
+        "Note": "Male-FD 12-16-21"
+      },
+      "G": {
+        "Card#": 243853,
+        "Cage_ID": "",
+        "Breeder": "Y",
+        "Lineage": "PB7",
+        "Fater": 5886,
+        "Mothers": [
+          5812,
+          5813
+        ],
+        "Tags": [],
+        "Note": "4 pups (12/28)"
+      },
+      "H": {
+        "Card#": 244647,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 5480,
+        "Mothers": [
+          5660,
+          5509
+        ],
+        "Tags": [
+          7096,
+          7097,
+          7098
+        ],
+        "Note": ""
+      }
+    },
+    "7": {
+      "A": {
+        "Card#": 244642,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 5475,
+        "Mothers": [
+          5569,
+          ""
+        ],
+        "Tags": [
+          5884,
+          5885
+        ],
+        "Note": ""
+      },
+      "B": {
+        "Card#": 247471,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5607,
+        "Mothers": [
+          5678,
+          5594
+        ],
+        "Tags": [
+          5870,
+          5872,
+          5873
+        ],
+        "Note": ""
+      },
+      "C": {
+        "Card#": 184067,
+        "Cage_ID": "",
+        "Breeder": "Y",
+        "Lineage": "PB7",
+        "Fater": 5475,
+        "Mothers": [
+          5659,
+          5569
+        ],
+        "Tags": [],
+        "Note": "Male Removed, check the Card, 3 pups (1/1)"
+      },
+      "D": {
+        "Card#": 243837,
+        "Cage_ID": "",
+        "Breeder": "Y",
+        "Lineage": "PB3",
+        "Fater": 5829,
+        "Mothers": [
+          7090,
+          5817
+        ],
+        "Tags": [],
+        "Note": "9 pups 12/30"
+      },
+      "E": {
+        "Card#": 244646,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 5480,
+        "Mothers": [
+          5660,
+          5509
+        ],
+        "Tags": [
+          7093,
+          7094
+        ],
+        "Note": ""
+      },
+      "F": {
+        "Card#": 311673,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 5886,
+        "Mothers": [
+          5812,
+          5813
+        ],
+        "Tags": [
+          6275,
+          6276,
+          6277,
+          6278,
+          6279
+        ],
+        "Note": ""
+      },
+      "G": {
+        "Card#": 311672,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 5886,
+        "Mothers": [
+          5812,
+          5813
+        ],
+        "Tags": [
+          6280
+        ],
+        "Note": ""
+      },
+      "H": {
+        "Card#": 243848,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "INS21",
+        "Fater": 5495,
+        "Mothers": [
+          5503,
+          ""
+        ],
+        "Tags": [
+          6077,
+          6078,
+          6079
+        ],
+        "Note": ""
+      }
+    },
+    "8": {
+      "A": {
+        "Card#": 23849,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "INS21",
+        "Fater": 5495,
+        "Mothers": [
+          5583,
+          ""
+        ],
+        "Tags": [
+          6080,
+          6081
+        ],
+        "Note": ""
+      },
+      "B": {
+        "Card#": 243876,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 5486,
+        "Mothers": [
+          5660,
+          5509
+        ],
+        "Tags": [
+          6070,
+          6071
+        ],
+        "Note": ""
+      },
+      "C": {
+        "Card#": 311712,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5829,
+        "Mothers": [
+          5817,
+          ""
+        ],
+        "Tags": [
+          6281,
+          6282
+        ],
+        "Note": ""
+      },
+      "D": {
+        "Card#": 311713,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5829,
+        "Mothers": [
+          5817,
+          ""
+        ],
+        "Tags": [
+          6283,
+          6284,
+          6285
+        ],
+        "Note": ""
+      },
+      "E": {
+        "Card#": 311711,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5829,
+        "Mothers": [
+          5817,
+          ""
+        ],
+        "Tags": [
+          "NA",
+          "NA",
+          "NA"
+        ],
+        "Note": "Not tagged yet?"
+      },
+      "F": {
+        "Card#": 311675,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5823,
+        "Mothers": [
+          5861,
+          ""
+        ],
+        "Tags": [
+          6286,
+          6287
+        ],
+        "Note": ""
+      },
+      "G": {
+        "Card#": 311674,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Father": 5823,
+        "Mothers": [
+          5861,
+          ""
+        ],
+        "Tags": [
+          6288
+        ],
+        "Note": ""
+      },
+      "H": {
+        "Card#": 311682,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 7020,
+        "Mothers": [
+          7044,
+          ""
+        ],
+        "Tags": [
+          "NA",
+          "NA",
+          "NA"
+        ],
+        "Note": ""
+      }
+    },
+    "9": {
+      "A": {
+        "Card#": 243850,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 5473,
+        "Mothers": [
+          5570,
+          5507
+        ],
+        "Tags": [
+          6083
+        ],
+        "Note": ""
+      },
+      "B": {
+        "Card#": 247482,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "Cas9",
+        "Fater": 5706,
+        "Mothers": [
+          5430,
+          ""
+        ],
+        "Tags": [
+          6026,
+          6027,
+          6028
+        ],
+        "Note": ""
+      },
+      "C": {
+        "Card#": 311676,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 7016,
+        "Mothers": [
+          7095,
+          ""
+        ],
+        "Tags": [
+          6289,
+          6290
+        ],
+        "Note": ""
+      },
+      "D": {
+        "Card#": 311677,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 7016,
+        "Mothers": [
+          7095,
+          ""
+        ],
+        "Tags": [
+          6291
+        ],
+        "Note": ""
+      },
+      "E": {
+        "Card#": 311679,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5829,
+        "Mothers": [
+          7090,
+          7817
+        ],
+        "Tags": [
+          6292,
+          6293,
+          6294
+        ],
+        "Note": ""
+      },
+      "F": {
+        "Card#": 311680,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5829,
+        "Mothers": [
+          7090,
+          7817
+        ],
+        "Tags": [
+          6295,
+          6296,
+          6297
+        ],
+        "Note": ""
+      },
+      "G": {
+        "Card#": 311678,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5829,
+        "Mothers": [
+          7090,
+          7817
+        ],
+        "Tags": [
+          6298,
+          6299,
+          6300,
+          6301
+        ],
+        "Note": ""
+      },
+      "H": {
+        "Card#": 311683,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 7020,
+        "Mothers": [
+          7044,
+          ""
+        ],
+        "Tags": [
+          "NA",
+          "NA",
+          "NA",
+          "NA"
+        ],
+        "Note": "Not yet tagged?"
+      }
+    },
+    "10": {
+      "A": {
+        "Card#": 243859,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "Cas9",
+        "Fater": 5789,
+        "Mothers": [
+          7067,
+          ""
+        ],
+        "Tags": [
+          "NA",
+          "NA",
+          "NA",
+          "NA"
+        ],
+        "Note": "Not tagged?"
+      },
+      "B": {
+        "Card#": 311721,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PBF",
+        "Fater": 5717,
+        "Mothers": [
+          5720,
+          5778
+        ],
+        "Tags": [
+          6263,
+          6264,
+          6265
+        ],
+        "Note": ""
+      },
+      "C": {
+        "Card#": 319710,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5871,
+        "Mothers": [
+          6046,
+          5893
+        ],
+        "Tags": [
+          "NA",
+          "NA",
+          "NA"
+        ],
+        "Note": "Not Tagged Yet?"
+      },
+      "D": {
+        "Card#": 319711,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5871,
+        "Mothers": [
+          6046,
+          5893
+        ],
+        "Tags": [
+          "NA",
+          "NA",
+          "NA",
+          "NA",
+          "NA"
+        ],
+        "Note": "Not tagged yet?"
+      },
+      "E": {
+        "Card#": 319709,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5856,
+        "Mothers": [
+          5892,
+          5875
+        ],
+        "Tags": [
+          "NA"
+        ],
+        "Note": ""
+      },
+      "F": {
+        "Card#": 319707,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5823,
+        "Mothers": [
+          5861,
+          ""
+        ],
+        "Tags": [
+          "NA",
+          "NA",
+          "NA"
+        ],
+        "Note": "Not Tagged Yet?"
+      },
+      "G": {
+        "Card#": 319708,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5823,
+        "Mothers": [
+          5861,
+          ""
+        ],
+        "Tags": [
+          "NA"
+        ],
+        "Note": "Not tagged yet"
+      },
+      "H": {
+        "Card#": 311684,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 7020,
+        "Mothers": [
+          7044,
+          ""
+        ],
+        "Tags": [
+          "NA",
+          "NA",
+          "NA",
+          "NA"
+        ],
+        "Note": "Not yet tagged 4 males"
+      }
+    }
+  },
+  "Rack2": {
+    "1": {
+      "A": {
+        "Card#": 214488,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5636,
+        "Mothers": [
+          5638,
+          5611
+        ],
+        "Tags": [
+          5817,
+          5818,
+          5819,
+          5820,
+          5821
+        ],
+        "Note": ""
+      },
+      "B": {
+        "Card#": 247509,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PBF",
+        "Fater": 5717,
+        "Mothers": [
+          5720,
+          5778
+        ],
+        "Tags": [
+          643
+        ],
+        "Note": "Wrong tag?"
+      },
+      "C": {
+        "Card#": 247508,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PBF",
+        "Fater": 5717,
+        "Mothers": [
+          5720,
+          5778
+        ],
+        "Tags": [
+          6114,
+          6115,
+          6116
+        ],
+        "Note": ""
+      },
+      "D": {
+        "Card#": 247503,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PBF",
+        "Fater": 5717,
+        "Mothers": [
+          5720,
+          5778
+        ],
+        "Tags": [
+          6142,
+          6143,
+          6144
+        ],
+        "Note": ""
+      },
+      "E": {
+        "Card#": 347500,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "INS21",
+        "Fater": 7080,
+        "Mothers": [
+          5804,
+          5782
+        ],
+        "Tags": [
+          6176,
+          6177,
+          6178,
+          6179
+        ],
+        "Note": ""
+      },
+      "F": {
+        "Card#": 247499,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "INS21",
+        "Fater": 7080,
+        "Mothers": [
+          5804,
+          5782
+        ],
+        "Tags": [
+          6180,
+          6181,
+          6182
+        ],
+        "Note": ""
+      },
+      "G": {
+        "Card#": 244624,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 5480,
+        "Mothers": [
+          5660,
+          5509
+        ],
+        "Tags": [
+          7034,
+          7035,
+          7036
+        ],
+        "Note": ""
+      },
+      "H": {
+        "Card#": 247501,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "INS21",
+        "Fater": 7080,
+        "Mothers": [
+          5804,
+          5782
+        ],
+        "Tags": [
+          6183,
+          6184,
+          6185,
+          6186,
+          6187
+        ],
+        "Note": ""
+      }
+    },
+    "2": {
+      "A": {
+        "Card#": 243841,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5823,
+        "Mothers": [
+          5677,
+          5859
+        ],
+        "Tags": [
+          6110,
+          6111,
+          6112
+        ],
+        "Note": ""
+      },
+      "B": {
+        "Card#": 243863,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB21",
+        "Father": 5483,
+        "Mothers": [
+          5642,
+          5641
+        ],
+        "Tags": [
+          6117
+        ],
+        "Note": ""
+      },
+      "C": {
+        "Card#": 112501,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3-EXP",
+        "Fater": 5390,
+        "Mothers": [
+          5458,
+          5459
+        ],
+        "Tags": [
+          5621,
+          5622,
+          5623,
+          5624
+        ],
+        "Note": ""
+      },
+      "D": {
+        "Card#": 247507,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5822,
+        "Mothers": [
+          5858,
+          ""
+        ],
+        "Tags": [
+          6150
+        ],
+        "Note": ""
+      },
+      "E": {
+        "Card#": 247498,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PBF",
+        "Fater": 5723,
+        "Mothers": [
+          5719,
+          5721
+        ],
+        "Tags": [
+          6145,
+          6146,
+          6147,
+          6148
+        ],
+        "Note": ""
+      },
+      "F": {
+        "Card#": 247504,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5823,
+        "Mothers": [
+          5677,
+          5859
+        ],
+        "Tags": [
+          6151,
+          6152,
+          6153,
+          6154,
+          6155
+        ],
+        "Note": ""
+      },
+      "G": {
+        "Card#": 247502,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "INS21",
+        "Fater": 7080,
+        "Mothers": [
+          5804,
+          5782
+        ],
+        "Tags": [
+          6188,
+          6189,
+          6190,
+          6191,
+          6192
+        ],
+        "Note": ""
+      },
+      "H": {
+        "Card#": 247497,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PBF",
+        "Fater": 5723,
+        "Mothers": [
+          5719,
+          5721
+        ],
+        "Tags": [
+          6149
+        ],
+        "Note": ""
+      }
+    },
+    "3": {
+      "A": {
+        "Card#": 247495,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "INS21",
+        "Father": 5801,
+        "Mothers": [
+          7060,
+          7062
+        ],
+        "Tags": [
+          6121,
+          6122,
+          6123,
+          6124,
+          6125
+        ],
+        "Note": ""
+      },
+      "B": {
+        "Card#": 247496,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "INS21",
+        "Fater": 5801,
+        "Mothers": [
+          7060,
+          7062
+        ],
+        "Tags": [
+          6126,
+          6127,
+          6128,
+          6129
+        ],
+        "Note": ""
+      },
+      "C": {
+        "Card#": 247493,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "INS21",
+        "Fater": 5801,
+        "Mothers": [
+          7060,
+          7062
+        ],
+        "Tags": [
+          6130,
+          6131,
+          6132
+        ],
+        "Note": ""
+      },
+      "D": {
+        "Card#": 247494,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "INS21",
+        "Fater": 5801,
+        "Mothers": [
+          7060,
+          7062
+        ],
+        "Tags": [
+          6133,
+          6134,
+          6135
+        ],
+        "Note": ""
+      },
+      "E": {
+        "Card#": 247492,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "INS21",
+        "Fater": 5780,
+        "Mothers": [
+          5809,
+          ""
+        ],
+        "Tags": [
+          6136,
+          6137
+        ],
+        "Note": ""
+      },
+      "F": {
+        "Card#": 247491,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "INS21",
+        "Fater": 5780,
+        "Mothers": [
+          5803,
+          ""
+        ],
+        "Tags": [
+          6138,
+          6189,
+          6140,
+          6141
+        ],
+        "Note": ""
+      },
+      "G": {
+        "Card#": 247490,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 7020,
+        "Mothers": [
+          7044,
+          7037
+        ],
+        "Tags": [
+          6200,
+          6201
+        ],
+        "Note": ""
+      },
+      "H": {
+        "Card#": 247489,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 7020,
+        "Mothers": [
+          7044,
+          7037
+        ],
+        "Tags": [
+          6202,
+          6203,
+          6204
+        ],
+        "Note": ""
+      }
+    },
+    "4": {
+      "A": {
+        "Card#": 247485,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 7048,
+        "Mothers": [
+          7045,
+          ""
+        ],
+        "Tags": [
+          "NA",
+          "NA"
+        ],
+        "Note": "Not Tagged Yet"
+      },
+      "B": {
+        "Card#": 184092,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "Cas9",
+        "Fater": 5456,
+        "Mothers": [
+          5430,
+          5431
+        ],
+        "Tags": [
+          5760,
+          5761
+        ],
+        "Note": ""
+      },
+      "C": {
+        "Card#": 243861,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB21",
+        "Fater": 5483,
+        "Mothers": [
+          5642,
+          5671
+        ],
+        "Tags": [
+          6118,
+          6119,
+          6120
+        ],
+        "Note": ""
+      },
+      "D": {
+        "Card#": 247488,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "INS21",
+        "Fater": 5779,
+        "Mothers": [
+          7056,
+          7055
+        ],
+        "Tags": [
+          6193,
+          6194,
+          6195,
+          6196,
+          6197
+        ],
+        "Note": ""
+      },
+      "E": {
+        "Card#": 247487,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "INS21",
+        "Fater": 5779,
+        "Mothers": [
+          7056,
+          7955
+        ],
+        "Tags": [
+          6198,
+          6199
+        ],
+        "Note": ""
+      },
+      "F": {
+        "Card#": 247505,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5823,
+        "Mothers": [
+          5677,
+          5859
+        ],
+        "Tags": [
+          6156,
+          6157,
+          6158
+        ],
+        "Note": ""
+      },
+      "G": {
+        "Card#": 214496,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB21",
+        "Fater": 5572,
+        "Mothers": [
+          5653,
+          5619
+        ],
+        "Tags": [
+          5842,
+          5843,
+          5844,
+          5845
+        ],
+        "Note": ""
+      },
+      "H": {
+        "Card#": 311715,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 7048,
+        "Mothers": [
+          7045,
+          ""
+        ],
+        "Tags": [
+          6251,
+          6252,
+          6253,
+          6254,
+          6255
+        ],
+        "Note": ""
+      }
+    },
+    "5": {
+      "A": {
+        "Card#": "",
+        "Cage_ID": "",
+        "Breeder": "",
+        "Lineage": "",
+        "Fater": "",
+        "Mothers": [
+          "",
+          ""
+        ],
+        "Tags": [],
+        "Note": ""
+      },
+      "B": {
+        "Card#": 243839,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5822,
+        "Mothers": [
+          5858,
+          ""
+        ],
+        "Tags": [
+          6104,
+          6105,
+          6106
+        ],
+        "Note": ""
+      },
+      "C": {
+        "Card#": "",
+        "Cage_ID": "",
+        "Breeder": "",
+        "Lineage": "",
+        "Fater": "",
+        "Mothers": [
+          "",
+          ""
+        ],
+        "Tags": [],
+        "Note": "JaHee"
+      },
+      "D": {
+        "Card#": "PB3",
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5823,
+        "Mothers": [
+          5677,
+          5859
+        ],
+        "Tags": [
+          6097,
+          6098,
+          6099,
+          6100
+        ],
+        "Note": ""
+      },
+      "E": {
+        "Card#": 247478,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 5475,
+        "Mothers": [
+          5569,
+          ""
+        ],
+        "Tags": [
+          6004
+        ],
+        "Note": ""
+      },
+      "F": {
+        "Card#": 184050,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "Cas9",
+        "Fater": 5456,
+        "Mothers": [
+          5430,
+          5431
+        ],
+        "Tags": [
+          5744,
+          5745,
+          5746,
+          5747
+        ],
+        "Note": ""
+      },
+      "G": {
+        "Card#": 311714,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 7048,
+        "Mothers": [
+          7045,
+          ""
+        ],
+        "Tags": [
+          6256,
+          6257,
+          6258,
+          6259,
+          6260
+        ],
+        "Note": ""
+      },
+      "H": {
+        "Card#": 243838,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5822,
+        "Mothers": [
+          5858,
+          ""
+        ],
+        "Tags": [
+          6107,
+          6108,
+          6109
+        ],
+        "Note": ""
+      }
+    },
+    "6": {
+      "A": {
+        "Card#": 214456,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB21",
+        "Fater": 5483,
+        "Mothers": [
+          5642,
+          5671
+        ],
+        "Tags": [
+          7029,
+          7031,
+          7033
+        ],
+        "Note": ""
+      },
+      "B": {
+        "Card#": 243840,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5823,
+        "Mothers": [
+          5677,
+          5859
+        ],
+        "Tags": [
+          6101,
+          6102,
+          6103
+        ],
+        "Note": ""
+      },
+      "C": {
+        "Card#": 214500,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5607,
+        "Mothers": [
+          5678,
+          5694
+        ],
+        "Tags": [
+          5831,
+          5832
+        ],
+        "Note": ""
+      },
+      "D": {
+        "Card#": 214491,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5608,
+        "Mothers": [
+          5670,
+          5713
+        ],
+        "Tags": [
+          5853,
+          5854
+        ],
+        "Note": ""
+      },
+      "E": {
+        "Card#": 24746,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 5886,
+        "Mothers": [
+          5812,
+          5813
+        ],
+        "Tags": [
+          6205,
+          6206,
+          6207
+        ],
+        "Note": ""
+      },
+      "F": {
+        "Card#": 247463,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 5886,
+        "Mothers": [
+          5812,
+          5813
+        ],
+        "Tags": [
+          6208,
+          6209,
+          6210
+        ],
+        "Note": ""
+      },
+      "G": {
+        "Card#": 184049,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "Cas9",
+        "Fater": 5456,
+        "Mothers": [
+          5430,
+          5431
+        ],
+        "Tags": [
+          5743
+        ],
+        "Note": ""
+      },
+      "H": {
+        "Card#": 129721,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3-EXP",
+        "Fater": 5390,
+        "Mothers": [
+          5390,
+          5459
+        ],
+        "Tags": [
+          5731
+        ],
+        "Note": "5732 and 5733 are transferred (12/9/2021)"
+      }
+    },
+    "7": {
+      "A": {
+        "Card#": 247460,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5829,
+        "Mothers": [
+          7090,
+          5817
+        ],
+        "Tags": [
+          6159,
+          6160,
+          6161,
+          6162
+        ],
+        "Note": ""
+      },
+      "B": {
+        "Card#": 247461,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5829,
+        "Mothers": [
+          7090,
+          5817
+        ],
+        "Tags": [
+          6163,
+          6164,
+          6165
+        ],
+        "Note": ""
+      },
+      "C": {
+        "Card#": 247484,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5829,
+        "Mothers": [
+          7090,
+          5817
+        ],
+        "Tags": [
+          6166,
+          6167,
+          6168,
+          6169,
+          6170
+        ],
+        "Note": ""
+      },
+      "D": {
+        "Card#": "",
+        "Cage_ID": "",
+        "Breeder": "",
+        "Lineage": "",
+        "Fater": "",
+        "Mothers": [
+          "",
+          ""
+        ],
+        "Tags": [],
+        "Note": "Card is there but cage is gone."
+      },
+      "E": {
+        "Card#": 247483,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5829,
+        "Mothers": [
+          7090,
+          5817
+        ],
+        "Tags": [
+          6172,
+          6173,
+          6174
+        ],
+        "Note": ""
+      },
+      "F": {
+        "Card#": 214459,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 5475,
+        "Mothers": [
+          5659,
+          5561
+        ],
+        "Tags": [
+          7019,
+          7021
+        ],
+        "Note": "Marked as Single Housing"
+      },
+      "G": {
+        "Card#": 214497,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB21",
+        "Fater": 5572,
+        "Mothers": [
+          5653,
+          5619
+        ],
+        "Tags": [
+          5846,
+          5847,
+          5848
+        ],
+        "Note": ""
+      },
+      "H": {
+        "Card#": 214451,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "INS21",
+        "Fater": 5496,
+        "Mothers": [
+          5498,
+          5504
+        ],
+        "Tags": [
+          7061
+        ],
+        "Note": ""
+      }
+    },
+    "8": {
+      "A": {
+        "Card#": 129722,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3-EXP",
+        "Fater": 5390,
+        "Mothers": [
+          5459,
+          ""
+        ],
+        "Tags": [
+          5727,
+          5726,
+          5727
+        ],
+        "Note": ""
+      },
+      "B": {
+        "Card#": 247486,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 7048,
+        "Mothers": [
+          7045,
+          ""
+        ],
+        "Tags": [
+          6212,
+          6213,
+          6214
+        ],
+        "Note": ""
+      },
+      "C": {
+        "Card#": 247506,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5822,
+        "Mothers": [
+          5858,
+          ""
+        ],
+        "Tags": [
+          6175
+        ],
+        "Note": ""
+      },
+      "D": {
+        "Card#": 244626,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 5480,
+        "Mothers": [
+          5660,
+          5509
+        ],
+        "Tags": [
+          7046,
+          7047
+        ],
+        "Note": ""
+      },
+      "E": {
+        "Card#": 214469,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "INS21",
+        "Fater": 5496,
+        "Mothers": [
+          5498,
+          5504
+        ],
+        "Tags": [
+          7079
+        ],
+        "Note": "Empty"
+      },
+      "F": {
+        "Card#": 129696,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3-Exp",
+        "Fater": 5390,
+        "Mothers": [
+          5459,
+          ""
+        ],
+        "Tags": [
+          5662,
+          5663,
+          5664
+        ],
+        "Note": ""
+      },
+      "G": {
+        "Card#": "",
+        "Cage_ID": "",
+        "Breeder": "",
+        "Lineage": "",
+        "Fater": "",
+        "Mothers": [
+          "",
+          ""
+        ],
+        "Tags": [],
+        "Note": ""
+      },
+      "H": {
+        "Card#": 214454,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5607,
+        "Mothers": [
+          5678,
+          5594
+        ],
+        "Tags": [
+          5838,
+          5839,
+          5840,
+          5841
+        ],
+        "Note": ""
+      }
+    },
+    "9": {
+      "A": {
+        "Card#": 214467,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "Cas9",
+        "Fater": 5700,
+        "Mothers": [
+          5430,
+          ""
+        ],
+        "Tags": [
+          7064,
+          7065,
+          7066
+        ],
+        "Note": ""
+      },
+      "B": {
+        "Card#": 243862,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB21",
+        "Fater": 5483,
+        "Mothers": [
+          5642,
+          5671
+        ],
+        "Tags": [
+          6230,
+          6231,
+          6232,
+          6233,
+          6234
+        ],
+        "Note": ""
+      },
+      "C": {
+        "Card#": 214457,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB21",
+        "Fater": 5483,
+        "Mothers": [
+          5642,
+          5671
+        ],
+        "Tags": [
+          7026,
+          7027
+        ],
+        "Note": ""
+      },
+      "D": {
+        "Card#": 214465,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB21",
+        "Fater": 5572,
+        "Mothers": [
+          5653,
+          5619
+        ],
+        "Tags": [
+          7038,
+          7039,
+          7041
+        ],
+        "Note": ""
+      },
+      "E": {
+        "Card#": 247465,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5871,
+        "Mothers": [
+          6046,
+          5893
+        ],
+        "Tags": [
+          6215,
+          6216
+        ],
+        "Note": ""
+      },
+      "F": {
+        "Card#": 247472,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5871,
+        "Mothers": [
+          6046,
+          5893
+        ],
+        "Tags": [
+          6244,
+          6245,
+          6246,
+          6247
+        ],
+        "Note": ""
+      },
+      "G": {
+        "Card#": 247471,
+        "Cage_ID": "",
+        "Breeder": "",
+        "Lineage": "",
+        "Fater": "",
+        "Mothers": [
+          "",
+          ""
+        ],
+        "Tags": [],
+        "Note": ""
+      },
+      "H": {
+        "Card#": 214495,
+        "Cage_ID": "",
+        "Breeder": "",
+        "Lineage": "",
+        "Fater": "",
+        "Mothers": [
+          "",
+          ""
+        ],
+        "Tags": [],
+        "Note": ""
+      }
+    },
+    "10": {
+      "A": {
+        "Card#": 214468,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "Cas9",
+        "Fater": 6700,
+        "Mothers": [
+          5430,
+          ""
+        ],
+        "Tags": [
+          7068,
+          7069
+        ],
+        "Note": ""
+      },
+      "B": {
+        "Card#": 311720,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PBF",
+        "Fater": 5717,
+        "Mothers": [
+          5720,
+          5778
+        ],
+        "Tags": [
+          6261,
+          6262
+        ],
+        "Note": ""
+      },
+      "C": {
+        "Card#": 244625,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 5480,
+        "Mothers": [
+          5660,
+          5509
+        ],
+        "Tags": [
+          7042,
+          7043
+        ],
+        "Note": ""
+      },
+      "D": {
+        "Card#": 311681,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PBF",
+        "Fater": 5717,
+        "Mothers": [
+          5720,
+          5778
+        ],
+        "Tags": [
+          6266,
+          6267,
+          6268
+        ],
+        "Note": ""
+      },
+      "E": {
+        "Card#": 311719,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5871,
+        "Mothers": [
+          6046,
+          5893
+        ],
+        "Tags": [
+          6269,
+          6270
+        ],
+        "Note": ""
+      },
+      "F": {
+        "Card#": 311718,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB3",
+        "Fater": 5871,
+        "Mothers": [
+          6046,
+          5893
+        ],
+        "Tags": [
+          6271
+        ],
+        "Note": ""
+      },
+      "G": {
+        "Card#": 311716,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 7020,
+        "Mothers": [
+          7044,
+          7037
+        ],
+        "Tags": [
+          6272,
+          6273
+        ],
+        "Note": ""
+      },
+      "H": {
+        "Card#": 311717,
+        "Cage_ID": "",
+        "Breeder": "N",
+        "Lineage": "PB7",
+        "Fater": 7020,
+        "Mothers": [
+          7044,
+          7037
+        ],
+        "Tags": [
+          6274
+        ],
+        "Note": ""
+      }
+    }
+  }
+}
